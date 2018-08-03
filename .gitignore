@@ -62,3 +62,4 @@ typings/
 
 # user-defined
 package-lock.json
+bundle.js
